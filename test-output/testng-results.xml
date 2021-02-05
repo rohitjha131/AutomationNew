@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4366" started-at="2021-02-02T19:21:33Z" finished-at="2021-02-02T19:21:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4366" started-at="2021-02-02T19:21:33Z" finished-at="2021-02-02T19:21:37Z">
+      <class name="com.mvm.qa.testcases.ClickOnSign">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mvm.qa.testcases.ClickOnSign@23ceabc1]" name="setup" is-config="true" duration-ms="25240" started-at="2021-02-03T00:51:07Z" finished-at="2021-02-03T00:51:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickOnSignButton()[pri:0, instance:com.mvm.qa.testcases.ClickOnSign@23ceabc1]" name="clickOnSignButton" duration-ms="2747" started-at="2021-02-03T00:51:33Z" finished-at="2021-02-03T00:51:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSignButton -->
+        <test-method status="PASS" signature="loginInAccount()[pri:0, instance:com.mvm.qa.testcases.ClickOnSign@23ceabc1]" name="loginInAccount" duration-ms="1580" started-at="2021-02-03T00:51:35Z" finished-at="2021-02-03T00:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginInAccount -->
+      </class> <!-- com.mvm.qa.testcases.ClickOnSign -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
