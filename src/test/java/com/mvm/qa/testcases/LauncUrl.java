@@ -27,7 +27,7 @@ public class LauncUrl extends TestBase {
 		String exp = Expected.getAttribute("alt");
 		//Assert.assertEquals(actual, expected);
 	    System.out.println("hello");
-		
+		System.out.println("");
 	}
 	
 //	@Test
